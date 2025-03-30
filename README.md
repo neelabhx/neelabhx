@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neelabh Saxena.
-- 👀 I’m a Cybersecurity Enthusiast.
+- 👀 I’m a Tech & AI Enthusiast.
 - 🌱 I’m currently learning about ... lets keep this a mystery for the time being.
 - 💞️ I’m looking to collaborate on Projects including Open Source but not limited to and hopefully more.
 - 📫 How to reach me -> Linkdin : 
